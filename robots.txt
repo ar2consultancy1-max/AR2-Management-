@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ar2consultancy1-max.github.io/AR2-Management-/sitemap.xml
